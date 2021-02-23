@@ -2,7 +2,7 @@
 # Created by: Dabeen Kim
 # Date: 2021.02.24
 # Reference: "Pandemic simulation" https://www.youtube.com/watch?v=oLvhAfOZSEo
-
+# Dependency: Processing, Python3
 w = 1000
 h = 600
 timer = 0
